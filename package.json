@@ -1,0 +1,19 @@
+{
+  "name": "netlify-function-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "static-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweber1/netlify-function-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweber1/netlify-function-repro/issues"
+  },
+  "homepage": "https://github.com/aweber1/netlify-function-repro#readme"
+}
