@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aweber1/netlify-function-repro/issues"
   },
-  "homepage": "https://github.com/aweber1/netlify-function-repro#readme"
+  "homepage": "https://github.com/aweber1/netlify-function-repro#readme",
+  "dependencies": {
+    "a-small-module": "^0.1.3"
+  }
 }
